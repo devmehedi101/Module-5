@@ -1,0 +1,43 @@
+body{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.header-area{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.header-section{
+    width: 50%;
+}
+.header-section img{
+    width: 70%;
+    display: block;
+    margin-left: 202px;
+    margin-top: 20px;
+}
+.left{
+    margin: 55px 20px;
+}
+.left h1{
+    line-height: 57px;
+    margin: 0;
+    font-size: 45px;
+}
+.left p , a{
+    font-size: 20px;
+}
+.left a{
+    padding: 13px 35px;
+    background-color: coral;
+    color: #FFF;
+    text-decoration: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: inline-block;s
+}
+span{
+    color: coral;
+}
