@@ -38,6 +38,9 @@ body{
     border-radius: 10px;
     display: inline-block;s
 }
+.left a{
+    background-color: rgb(252, 137, 96);
+}
 span{
     color: coral;
 }
