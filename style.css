@@ -31,12 +31,15 @@ body{
 }
 .left a{
     padding: 13px 35px;
-    background-color: coral;
+    background-color: #ff7f50;
     color: #FFF;
     text-decoration: none;
     margin-top: 20px;
     border-radius: 10px;
-    display: inline-block;s
+    display: inline-block;
+}
+.left a{
+    background-color: rgb(252, 137, 96);
 }
 span{
     color: coral;
