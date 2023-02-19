@@ -13,7 +13,7 @@ body{
     width: 50%;
 }
 .header-section img{
-    width: 70%;
+    width: 74%;
     display: block;
     margin-left: 202px;
     margin-top: 20px;
@@ -25,6 +25,7 @@ body{
     line-height: 57px;
     margin: 0;
     font-size: 45px;
+    text-transform: uppercase;
 }
 .left p , a{
     font-size: 20px;
@@ -47,3 +48,42 @@ body{
 span{
     color: coral;
 }
+
+/* section two start from hear */
+.two-img img{
+   margin-right: 67px;
+   display: block; 
+}
+.header-section2{
+    width: 70%;
+
+}
+.header-section2 img{
+    width: 65%;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+/* section three start from hear */
+.margin-top{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+.box-area{
+    width: 500px;
+    box-shadow: 3px 3px 15px #000000;
+    display: block;
+    margin: auto;
+    padding: 20px 25px;
+    border-radius: 5px;
+    border-left: 5px solid red;
+}
+
+.bottom-area p{
+    margin-top: 150px;
+    text-align: center;
+}
+
+
