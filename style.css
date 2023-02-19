@@ -76,7 +76,7 @@ span{
     box-shadow: 3px 3px 15px #000000;
     display: block;
     margin: auto;
-    padding: 20px 25px;
+    padding: 25px 20px;
     border-radius: 5px;
     border-left: 5px solid red;
 }
